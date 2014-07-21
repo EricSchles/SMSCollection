@@ -41,7 +41,7 @@ public class PrefStore {
 	static final String DEFAULT_DONATION_ADDRESS = "emotionmobilesensing@gmail.com";
 
 	/** Preference key containing the Google account password. */
-	static final String PREF_LOGIN_PASSWORD = "Es123456789!@#$";
+	static final String PREF_LOGIN_PASSWORD = "login_password";
 
 	/** Preference key containing a UID used for the threading reference header. */
 	static final String PREF_REFERENECE_UID = "reference_uid";
